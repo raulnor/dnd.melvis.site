@@ -1,9 +1,6 @@
 ---
 title: "Lysin Amalin-McKingly"
 ---
-
-## Lysin Amalin-McKingly
-
 *Half-Elf Cleric of Twilight, Neutral Good*
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |

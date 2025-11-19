@@ -1,31 +1,39 @@
 <style>
-  body { min-height: 100vh; display: flex; justify-content: center; align-items: center; }
-  .container { display: flex; flex-direction: column; align-items: center;  }
-  h1 { margin: 0; text-align: center; margin-bottom: 1rem; }
-  .search-box { padding: 12px 20px; width: 100%; border: 2px solid var(--body-font-color); font-size: 16px; outline: none; transition: border-color 0.3s; }
-  .search-box:focus { border-color: var(--color-link); }
-  .links { display: flex; gap: 0.5rem; justify-content: center; margin-top: 1rem; }
-  .dropdown { width: 100%; }
-  .dropdown ul { position: absolute; z-index: 100; padding: 0; margin: 0; background: var(--gray-100); }
-  .dropdown ul li { list-style: none; padding: 12px 20px; font-size: 16px; }
-  .dropdown ul li:hover { background-color: var(--color-link); }
-  .dropdown ul li:hover a { color: #fff; }
-  .dropdown ul li small { display: none; }
+  .toc-container { max-width: 900px; margin: 0 auto; padding: 2rem; }
+  .toc-container h1 { text-align: center; margin-bottom: 3rem; }
+  .toc-grid { display: grid; grid-template-columns: 1fr; gap: 3rem; margin-bottom: 3rem; }
+  @media (min-width: 768px) {
+    .toc-grid { grid-template-columns: repeat(2, 1fr); gap: 4rem; }
+  }
+  .toc-section h2 { border-bottom: 2px solid currentColor; padding-bottom: 0.5rem; margin-bottom: 1rem; margin-top: 0; }
+  .toc-links { list-style: none; padding-left: 0; margin: 0; }
+  .toc-links li { margin-bottom: 0.5rem; }
+  .footer-links { text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid currentColor; }
+  .footer-links a { margin: 0 1rem; }
 </style>
-<div class="container">
+<div class="toc-container">
   <h1>{{ .Site.Title }}</h1>
-  <input type="text" class="search-box" id="book-search-input" placeholder="Search..." autofocus aria-label="Search"
-    maxlength="64" data-hotkeys="s/">
-  <div class="dropdown">
-    <ul id="book-search-results"></ul>
+  <div class="toc-grid">
+    <div class="toc-section">
+      <h2>Heroes</h2>
+      <ul class="toc-links">
+{{- range sort (where .Site.RegularPages "Section" "==" "heroes") "Title" -}}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{- end -}}
+      </ul>
+    </div>
+    <div class="toc-section">
+      <h2>Items</h2>
+      <ul class="toc-links">
+{{- range sort (where .Site.RegularPages "Section" "==" "items") "Title" -}}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{- end -}}
+      </ul>
+    </div>
   </div>
-  <div class="links">
-    <a href="/heroes/">Heroes</a> •
-    <a href="/rules/">Rules</a> •
-    <a href="/world/">World</a> •
-    <a href="/items/">Items</a> •
-    <a href="#">Files</a> •
+  <div class="footer-links">
+    <a href="/world">World</a> •
+    <a href="/rules">Rules</a> •
     <a href="https://discord.gg/XwUPJVnX">Discord</a>
   </div>
-
 </div>

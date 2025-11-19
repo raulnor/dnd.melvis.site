@@ -1,8 +1,6 @@
 ---
-title: "The Svirfneblin Bag of Crafts"
+title: "Svirfneblin Bag of Crafts"
 ---
-
-## The Svirfneblin Bag of Crafts 
 *Wondrous Item, common*
 
 This bag contains a hefty supply for the crafty adventure. There are 3 different materials that can be pulled out of the bag, each of which can be pulled out once per day. All materials outside the bag lose all magic properties and effects at midnight. 

@@ -1,8 +1,7 @@
 ---
 title: "Carric Siannödel"
 ---
-## Carric Siannödel
-Wood Elf Hunter Ranger, Chaotic Good
+*Wood Elf Hunter Ranger, Chaotic Good*
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|

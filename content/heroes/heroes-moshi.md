@@ -1,9 +1,6 @@
 ---
 title: "Moshi"
 ---
-
-## Moshi
-
 *Human Sun Soul Monk, Lawful Good*
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |

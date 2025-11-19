@@ -1,10 +1,7 @@
 ---
 title: "Tumnus Marshwiggle"
 ---
-
-## Tumnus Marshwiggle
-
-Satyr Wild Magic Sorcerer, Lawful Neutral
+*Satyr Wild Magic Sorcerer, Lawful Neutral*
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|

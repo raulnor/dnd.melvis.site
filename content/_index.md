@@ -1,5 +1,5 @@
 ---
-title: Main
-type: bare
+title:
+type: toplevel
 ---
 {{% hero %}}

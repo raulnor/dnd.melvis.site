@@ -1,9 +1,6 @@
 ---
 title: "Seraphina Amberspell"
 ---
-
-## Seraphina Amberspell
-
 *Lightfoot Halfling Thief Rogue, Chaotic Good*
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |

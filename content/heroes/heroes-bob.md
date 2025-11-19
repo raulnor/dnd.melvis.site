@@ -1,8 +1,7 @@
 ---
 title: Bob
 ---
-## Bob
-Human Oath of Vengeance Paladin, Chaotic Neutral
+*Human Oath of Vengeance Paladin, Chaotic Neutral*
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |

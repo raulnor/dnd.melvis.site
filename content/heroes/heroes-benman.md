@@ -2,7 +2,7 @@
 title: "Benman Madtankard"
 ---
 
-Hill Dwarven War Cleric of Tempus, Lawful Neutral
+*Hill Dwarven War Cleric of Tempus, Lawful Neutral*
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |

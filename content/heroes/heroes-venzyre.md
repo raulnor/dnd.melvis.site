@@ -1,9 +1,6 @@
 ---
 title: "Venzyre Ironbell"
 ---
-
-## Venzyre Ironbell
-
 *Rock Gnome Berserker Barbarian, Neutral Evil*
 
 **Names**: The Ghosthammer, Daughter of Grokgok, She Who Rages, Yatil Axe Maiden
