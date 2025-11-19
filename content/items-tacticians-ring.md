@@ -1,8 +1,6 @@
 ---
-bookHidden: true
 title: "Tactician's Ring"
 ---
-## Tactician's Ring
 *Wondrous Item, common*
 
 This ring made of jet and marble is proof that you know how to strategize when everything's on the line.

@@ -1,5 +1,4 @@
 ---
-bookHidden: true
 title: "The Svirfneblin Bag of Crafts"
 ---
 

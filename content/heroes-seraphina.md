@@ -1,5 +1,4 @@
 ---
-bookHidden: true
 title: "Seraphina Amberspell"
 ---
 
