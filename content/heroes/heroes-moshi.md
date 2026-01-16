@@ -3,18 +3,32 @@ title: "Moshi"
 ---
 *Human Sun Soul Monk, Lawful Good*
 
+## Stats
+
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|18 (+4)|16 (+3)| 9 (-1)|16 (+3)|12 (+1)|
+|10 (+0)|18 (+4)|14 (+2)| 8 (-1)|16 (+3)| 8 (-1)|
 
 |  LVL  |  EXP  |   HP  |  SPD  |   AC  |  PER  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 4 (+2)|  2,700|   32  |   50  |   17  |   12  |
+| 7 (+3)|   -   |   ??  |   50  |   17  |   ??  |
 
-#### Magic Items
+## Magic Items
  
 - (*) [Eldritch Claw Tattoo](https://dnd5e.wikidot.com/wondrous-items:eldritch-claw-tattoo)
 - [Pole of Collasping](https://dnd5e.wikidot.com/wondrous-items:pole-of-collapsing)
-- [Goggles of Night](https://dnd5e.wikidot.com/wondrous-items:goggles-of-night)
+- (*) [Gauntlets of Ogre Power](http://dnd2024.wikidot.com/magic-item:gauntlets-of-ogre-power)
 - [Tactician's Ring](/items-tacticians-ring/)
 - [Svirfneblin Bag of Crafts](/items-bag-of-crafts/)
+- (*) [Hat of Disguise](http://dnd2024.wikidot.com/magic-item:hat-of-disguise)
+- [Masterwork (+1) Wraps](http://dnd2024.wikidot.com/magic-item:wraps-of-unarmed-power)
+
+## Feats
+
+- Origin: Savage Attacker
+- Origin: Tavern Brawler
+- Level 4: Speedy
+
+## Notes 
+
+- Check HP / Perception
