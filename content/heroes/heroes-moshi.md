@@ -17,9 +17,9 @@ title: "Moshi"
  
 - (*) [Eldritch Claw Tattoo](https://dnd5e.wikidot.com/wondrous-items:eldritch-claw-tattoo)
 - [Pole of Collasping](https://dnd5e.wikidot.com/wondrous-items:pole-of-collapsing)
-- (*) [Gauntlets of Ogre Power](http://dnd2024.wikidot.com/magic-item:gauntlets-of-ogre-power)
 - [Tactician's Ring](/items-tacticians-ring/)
 - [Svirfneblin Bag of Crafts](/items-bag-of-crafts/)
+- (*) Ring of Necrotic Resistance
 - (*) [Hat of Disguise](http://dnd2024.wikidot.com/magic-item:hat-of-disguise)
 - [Masterwork (+1) Wraps](http://dnd2024.wikidot.com/magic-item:wraps-of-unarmed-power)
 

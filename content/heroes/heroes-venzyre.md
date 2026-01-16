@@ -13,7 +13,7 @@ title: "Venzyre Ironbell"
 
 |  LVL  |  EXP  |   HP  |  SPD  |   AC  |  PER  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 4 (+2)|  2,700|   68  |   30  |   17  |   13  |
+| 7 (+3)|   -   |   68  |   30  |   17  |   13  |
 
 ## Magic Items 
 - (4) Walloping Javelins

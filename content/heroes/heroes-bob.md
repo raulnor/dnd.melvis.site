@@ -15,9 +15,10 @@ title: Bob
 
 ## Magic Items 
 
-- (*) [Battleaxe of Firebolt](http://dnd2024.wikidot.com/magic-item:enspelled-weapon)
+- [Battleaxe of Firebolt](http://dnd2024.wikidot.com/magic-item:enspelled-weapon)
 - (*) [Deck of Illusions](http://dnd2024.wikidot.com/magic-item:deck-of-illusions)
 - (*) [Cloak of the Manta Ray](http://dnd2024.wikidot.com/magic-item:cloak-of-the-manta-ray)
+- (*) [Hat of Disguise](http://dnd2024.wikidot.com/magic-item:hat-of-disguise)
 - [Adamantine Full Plate](http://dnd2024.wikidot.com/magic-item:adamantine-armor)
 - Bag of Holding
 
