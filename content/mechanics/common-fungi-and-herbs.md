@@ -18,6 +18,12 @@ title: "Common Fungi and Herbs"
 
 </div></div>
 
+<div class="phone-only"> 
+
+*Note: Smaller screens do not show values or rolling information. Consult print or a larger device if needed.*
+
+</div>
+
 | # | Fungus / Herb | Value (gp) | Species | Roll (d100) | DC | Summary of Effect |
 |---|------|-----------|------|------|-----|-------------------|
 | 1 | Arrowhame | 10 | Plant | 01-02 | 25 | [CON Save](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SavingThrow) proficiency |
@@ -103,6 +109,7 @@ Note: This content was originally sourced from [Dolmenwood](https://necroticgnom
     p { margin-top: 0px; }
     td { padding: 2px; }
 
+    .phone-only { display: none; }
     .two-column { display: flex; gap: 1em; }
     .two-column .column { flex: 1; }
     
@@ -119,4 +126,15 @@ Note: This content was originally sourced from [Dolmenwood](https://necroticgnom
     }
 
     @media screen { .print-only { display: none; }}
+
+    @media screen and (max-width: 640px) {
+        .phone-only { display: inherit; }
+
+        td:nth-child(3), th:nth-child(3), 
+        td:nth-child(4), th:nth-child(4),
+        td:nth-child(5), th:nth-child(5),
+        td:nth-child(6), th:nth-child(6) {
+            display: none;
+        }
+    }
 </style>
