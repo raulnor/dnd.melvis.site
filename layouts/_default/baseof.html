@@ -5,18 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Title }} | {{ .Site.Title }}</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kimeiga/bahunya/dist/bahunya.min.css">
+  <link rel="stylesheet" href="/print.css" media="print">
   <style>
     body { margin: 3rem auto; }
     article { border: none; padding: 0; margin: 0 20px; border-radius: 0; }
     h1 { margin-bottom: 0; }
     h1 + p { margin-top: 0; }
-
-    @media print {
-      body { margin: 0; }
-      body nav:first-of-type { display: none; }
-      body { font-size: 0.875rem; line-height: 1.125rem; }
-      th, td { font-size: 0.75rem; }
-    }
   </style>
 </head>
 <body>

@@ -112,18 +112,6 @@ Note: This content was originally sourced from [Dolmenwood](https://necroticgnom
     .phone-only { display: none; }
     .two-column { display: flex; gap: 1em; }
     .two-column .column { flex: 1; }
-    
-    @media print {
-        .page-break { break-after: page; }
-        .two-column .column { break-inside: avoid; }
-        a { color: #000; font-weight: 600; text-decoration: none; }
-        td { padding: 3px 5px; }
-        tr:nth-child(even) { 
-            background-color: #f2f2f2 !important; 
-            -webkit-print-color-adjust: exact; 
-            print-color-adjust: exact; 
-        }
-    }
 
     @media screen { .print-only { display: none; }}
 

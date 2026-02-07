@@ -1,0 +1,25 @@
+@media print {
+    /* Typograhy / Margins */
+    * { font-family: "Garamond", "Palatino", "Georgia", serif; }
+    body { font-size: 0.875rem; line-height: 1.125rem; margin: 0; }
+    h1 { font-size: 1.500rem; font-weight: bold; margin-bottom: 4pt; }
+    h2 { font-size: 1.250rem; font-weight: bold; margin-top: 8pt; margin-bottom: 2pt; text-transform: uppercase; }
+    h3 { font-size: 1.000rem; font-weight: bold; font-style: italic; margin-top: 4pt; margin-bottom: 2pt; }
+    p { margin-bottom: 4pt; }
+    nav, footer, .breadcrumb { display: none; }
+    a {  text-decoration: none; font-weight: 600; }
+    th, td { font-size: 0.75rem; padding: 2pt 4pt; }
+    /* Color */
+    * { -webkit-print-color-adjust: exact; print-color-adjust: exact; color-adjust: exact; }
+    body, a { color: #2A2A2A; }
+    h1, h2 { color: #0E3A5F; }
+    h3, th { color: #8B1A1A; }
+    th { background-color: #8B1A1A; color: #FFF; }
+    tr:nth-child(even) { background-color: #f2ebe0 !important; }
+    /* Layout */
+    body nav:first-of-type { display: none; }
+    h1, h2, h3 { page-break-after: avoid; }
+    table { page-break-inside: avoid; }
+    .column { break-inside: avoid; }
+    .page-break { break-after: page; }
+}
